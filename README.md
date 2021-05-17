@@ -1,0 +1,2 @@
+# ShapeAI_Ritesh_Kumar
+Basic Python and Deep Learning - 7 days Hands on bootcamp
